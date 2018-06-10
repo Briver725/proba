@@ -3,7 +3,6 @@
        font-family: arial; 
      }
 h1 {
-     weight: 500px; 
      text-transform: uppercase;
    }
 .center {
@@ -24,6 +23,3 @@ h1 {
 a {
     font-style: italic;
   }
-.zz6 {
-       border-bottom: 2px solid #333;
-     }
