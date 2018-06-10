@@ -9,14 +9,13 @@ h1 {
 .center {
           margin: 0px 200px 0px 200px;
         }
-h4 {
-     position: relative;
-     padding: 12px 0;
-     border-bottom: 2px solid #333;
-   }
-.zz7 {
+.style {
        font-size: 20px; 
        font-weight: 600;
+       width: 450px;
+       position: relative;
+       padding: 12px 0;
+       border-top: 2px solid #333;
      }
 .second {
           font-size: 15px; 
